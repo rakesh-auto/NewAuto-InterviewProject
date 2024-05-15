@@ -23,6 +23,7 @@ public class HomePageTest extends WebTestBase {
     }
     @Test
     public void tc(){
+        System.out.println("i am execute");
          /*softAssert=new SoftAssert();
             homePage.addClose();
             homePage.setDiscoverMoreBtn();
